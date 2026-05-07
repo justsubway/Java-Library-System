@@ -17,6 +17,4 @@ bin/
 Thumbs.db
 *.zip
 
-# Large / non-source artifacts (keep locally)
-Screenshots/
-Description PDF/
+# Docs / screenshots are part of the project; keep them tracked.
