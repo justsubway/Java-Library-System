@@ -1,0 +1,22 @@
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Java build outputs
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+bin/
+
+# OS / archives
+Thumbs.db
+*.zip
+
+# Large / non-source artifacts (keep locally)
+Screenshots/
+Description PDF/
